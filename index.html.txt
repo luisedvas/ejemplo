@@ -6,7 +6,7 @@
     <link href="styele.css "rel="stylesheet">  
   </head>
   <body>
-    <h1>Encabezado</h1>
-    <p>Practica</p>
+    <h1>The Dillinger Escape Plan</h1>
+    <p>One Of Us is the Killer</p>
   </body>
 </html>
