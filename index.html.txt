@@ -8,5 +8,27 @@
   <body>
     <h1>The Dillinger Escape Plan</h1>
     <p>One Of Us is the Killer</p>
+    <p>Lyrics:<br>
+    you're an image pale that points and laughs<br>
+    a white mistress in a fiery bath<br>
+    now tie me down and take me home<br>
+    I'm not afraid to go<br>
+    shake the roots off of the tree<br>
+    your conscience fades<br>
+    eyes have no vision to see<br>
+    your soul degrades<br>
+    grey follows in front of me<br>
+    you've lost your way<br>
+    every life is but a death to me<br>
+    eventually the jokes aren't free and<br>
+    nothing's ever fun and<br>
+    nothing's funny<br>
+    blunt self belief too big to fall<br>
+    lead shadow stands just inches tall<br>
+    I hope to god you never die<br>
+    your joke is just my type<br>
+    but now I see the joke's on me<br>
+    don't be scared<br>
+    </p>
   </body>
 </html>
