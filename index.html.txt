@@ -1,0 +1,12 @@
+<!DOCTYPE> 
+<html lang="en">
+  <head>
+    <title>Mi primer intento con Git & GitHub</title>
+    <meta charset="UTF-8">
+    <link href="styele.css "rel="stylesheet">  
+  </head>
+  <body>
+    <h1>Encabezado</h1>
+    <p>Practica</p>
+  </body>
+</html>
